@@ -1,8 +1,8 @@
 # Corona_india
 Tabular and graphical representation of data related to corona
 I am Using 2 python packages 
-# Pandas
-# Matplotlib
+ Pandas
+ Matplotlib
 
 # Pandas 
 pandas aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language.
@@ -30,9 +30,51 @@ For a local installation, make sure you have
 [pip installed](https://pip.readthedocs.io/en/stable/installing/) and run:
 
     $ pip install notebook
-
+# dataset 
+i used corona dataset which is available on Kaggle website 
+download link here
+https://www.kaggle.com/sudalairajkumar/covid19-in-india
 # Coron story of india 
 
  The first case of the corona in India was found in Kerala on 30 January 2013
  
-![](images/1st case.PNG)
+![](images/1st_case.PNG)
+In Januaray and Februry corona crisis was not severe 
+
+we only want to work on data realted to 2nd May 2012 so i use folloeing commands to limit the rows 
+covid_latest=covid1[covid1['Date']=='02/05/20']
+
+sort data based on Confirm case
+
+![](images/sort1.PNG)
+
+
+
+
+now sort data in descending order and find state having highet no. of case(Top 10 states)
+
+![](images/sort2.PNG)
+
+Maharashtra state have highest death of corona 
+ 
+![](images/death.PNG)
+
+Grapgh showing top 10 states in India with confirmed cases
+
+![](images/graph.PNG)
+
+Lets c Maharashtra state Graph
+![](images/maharashtra.PNG)
+
+<b>Mahrashtra state Corona cases are increasing with time <b>
+    
+Goa state graph shows today there is no new case of corona
+![](images/goa.PNG)
+
+Manipur state with only 2 cases also maintain good grapgh
+![](images/manipur.PNG)
+
+# conclusion
+![](images/conclusion.PNG)
+
+North-eastern states and goa did best perfomance against corona
