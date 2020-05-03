@@ -17,3 +17,22 @@ Intelligent data alignment and integrated handling of missing data: gain automat
 Flexible reshaping and pivoting of data sets;
 
 # Matplotlib
+![](images/matplotlib.PNG)
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+
+## Installation
+You can find the installation documentation for the
+[Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html).
+The documentation for advanced usage of Jupyter notebook can be found
+[here](https://jupyter-notebook.readthedocs.io/en/latest/).
+
+For a local installation, make sure you have
+[pip installed](https://pip.readthedocs.io/en/stable/installing/) and run:
+
+    $ pip install notebook
+
+# Coron story of india 
+
+ The first case of the corona in India was found in Kerala on 30 January 2013
+ 
+![](images/1st case.PNG)
