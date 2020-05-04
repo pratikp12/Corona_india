@@ -41,7 +41,7 @@ https://www.kaggle.com/sudalairajkumar/covid19-in-india
 ![](images/1st_case.PNG)
 In Januaray and Februry corona crisis was not severe 
 
-we only want to work on data realted to 2nd May 2012 so i use folloeing commands to limit the rows 
+we only want to work on data realted to 2nd May 2012 so i use following commands to limit the rows 
 covid_latest=covid1[covid1['Date']=='02/05/20']
 
 sort data based on Confirm case
@@ -68,13 +68,13 @@ Lets c Maharashtra state Graph
 
 <b>Mahrashtra state Corona cases are increasing with time <b>
     
-Goa state graph shows today there is no new case of corona
+<i>Goa state graph shows today there is no new case of corona<i>
 ![](images/goa.PNG)
 
-Manipur state with only 2 cases also maintain good grapgh
+<i>Manipur state with only 2 cases also maintain good grapgh<i>
 ![](images/manipur.PNG)
 
 # conclusion
 ![](images/conclusion.PNG)
 
-North-eastern states and goa did best perfomance against corona
+<b>North-eastern states and goa did best perfomance against corona<b>
