@@ -78,3 +78,5 @@ Lets c Maharashtra state Graph
 ![](images/conclusion.PNG)
 
 <b>North-eastern states and goa did best perfomance against corona<b>
+ ## Read my medium blog 
+ https://medium.com/@pratikmpatil12/corona-story-of-india-6b09e303e6b3?sk=3c8a9725c8dfadba0839c8fdd7910bb3
